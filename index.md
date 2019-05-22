@@ -1,4 +1,5 @@
-# Home Page
+# Digital Humanites
+* Thomas Miller
 
 [Click Here to See the Repo](https://github.com/ThomasMillerJ/dh1-first-assignment)
 
